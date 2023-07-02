@@ -1,4 +1,4 @@
-# Olá, me chamo Marcelo. Seja bem vindo ao meu repositório git, o qual utilizo para compartilhar minha jornada de aprendizado em Data Science, Machine Learning e Big Data. 
+# Olá, me chamo Marcelo. Seja bem-vindo ao meu repositório git, o qual utilizo para compartilhar minha jornada de aprendizado em Data Science, Machine Learning e Big Data. 
 
 # Este é o Plano de Estudos que estou executando passo-a-passo com a intenção de conhecer as disciplinas de *Data Science* usando *Python* para implementar modelos de *Machine Learning*.
 
