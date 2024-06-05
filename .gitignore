@@ -4,3 +4,9 @@
 .Rproj.user
 .zip
 .h5
+
+
+machine-learning-avancado/introducao-word-embedding/treino.csv
+machine-learning-avancado/introducao-word-embedding/teste.csv
+machine-learning-avancado/introducao-word-embedding/cbow*
+machine-learning-avancado/introducao-word-embedding/skip*
