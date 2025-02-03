@@ -7,6 +7,11 @@
 ptwiki-latest.json.gz
 .keras
 *.keras
+*.gz
+
+ptwiki-articles-text/*
+ptwiki-articles-text
+./ptwiki-articles-text
 
 machine-learning-avancado/introducao-word-embedding/treino.csv
 machine-learning-avancado/introducao-word-embedding/teste.csv
